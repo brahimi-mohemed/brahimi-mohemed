@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Brahimi Mohamed 👋
 
-<!--
-**brahimi-mohemed/brahimi-mohemed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building interactive web applications using JavaScript and APIs.
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎬 Movie Search App – Search movies and view details using OMDb API  
+- 🌦 Weather App – Real-time weather data with API integration  
+- ✅ Todo App – Task management with dynamic UI updates  
+
+## 🛠 Tech Stack
+
+- HTML  
+- CSS  
+- JavaScript  
+
+## 🌐 Live Projects
+
+- Movie App: https://moviesearch-app-js.vercel.app
+- Weather App: https://weatherapp-realapi.vercel.app/ 
+- Todo App: https://to-do--app.vercel.app/
