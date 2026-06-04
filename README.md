@@ -19,3 +19,4 @@ Frontend Developer focused on building interactive web applications using JavaSc
 - Movie App: https://moviesearch-app-js.vercel.app
 - Weather App: https://weatherapp-realapi.vercel.app/ 
 - Todo App: https://to-do--app.vercel.app/
+- Movie Hub App: https://app-movie-hub.vercel.app/
